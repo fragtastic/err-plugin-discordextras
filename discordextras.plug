@@ -1,0 +1,9 @@
+[Core]
+Name = Discord Extras
+Module = discordextras
+
+[Documentation]
+Description = Extends functionality with the Errbot Discord backend.
+
+[Python]
+Version = 3
